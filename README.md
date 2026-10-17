@@ -38,7 +38,7 @@ Genellikle birkaç gün içinde yanıt veriyoruz.
 ## Sık sorulanlar
 
 **Verilerim nerede saklanıyor?**
-Yalnızca iPhone'unda. OnePen'ta hesap ve sunucu yok. [Gizlilik politikasına](privacy.md) bakabilirsin.
+Yalnızca iPhone'unda. OnePen'de hesap ve sunucu yok. [Gizlilik politikasına](privacy.md) bakabilirsin.
 
 **OnePen+'ı yeni telefonda nasıl geri yüklerim?**
 Ayarlar → OnePen+ ekranında *Satın alımları geri yükle*'ye dokun; aynı Apple Hesabı ile giriş yapmış olman yeterli.
